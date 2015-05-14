@@ -7,8 +7,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            {L/K}
-tagline:          
+title:            L/K
+tagline:          The Jekyll Butler
 url:              http://kravinskylev.github.io
 paginate:         1
 baseurl:          /
