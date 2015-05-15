@@ -13,6 +13,17 @@
 @import "pagination";
 @import "message";
 
+.haiku {
+  text-align:center;
+  font-family: "Times New Roman", Calibri, Serif;
+}
+
+.haiku-header {
+  text-align:center;
+  font-family: "Times New Roman", Calibri, Serif;
+  font-size:1.5em;
+}
+
 .notpost-title {
   width:50%;
   margin-left:30%

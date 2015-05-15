@@ -29,6 +29,10 @@ author:
   url:               https://twitter.com/LevKravinsky
   email:             kravinskylev@gmail.com
 
+# Build settings
+#markdown: kramdown
+markdown: redcarpet
+
 # Custom vars
 version:             1.0.0
 github:
