@@ -15,14 +15,16 @@ I dropped out of highschool after 10th grade in order to start college early. Pr
 </div>
 __________________________________________________________________________________________________________________________________________________________________________________________________________
 
-##TL;DR
+<span class="tldr-header"><h2>TL;DR</h2></span>
+<div class="two-columns">
+<div class="round">
+<img src="/public/Me!.jpg"
+</div>
+</div>
+
 <div class="about" id="tldr">
 Age: 17 <br>
-Education: Highschool/College Dropout <br>
+Education: HS/College Dropout <br>
 Skills: <a href="https://www.ruby-lang.org/en/">Ruby</a>, <a href="http://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a>, <a href="http://git-scm.com/">Git</a> <br>
-Currently Learning: <a href="http://rubyonrails.org/">Rails</a>, <a href="http://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="http://www.sinatrarb.com/">Sinatra</a>
+Learning: <a href="http://rubyonrails.org/">Rails</a>, <a href="http://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="http://www.sinatrarb.com/">Sinatra</a>
 </div>
-__________________________________________________________________________________________________________________________________________________________________________________________________________
-
-<br>
-<a href="/contact">Contact Info<a/>
