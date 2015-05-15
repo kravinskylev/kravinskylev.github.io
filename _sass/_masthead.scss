@@ -31,4 +31,9 @@
     letter-spacing: 0;
   }
 
+  @media screen and (min-width: 400px) {
+    .masthead-title {
+      font-size:5vmin
+    }
+  }
 }
