@@ -83,8 +83,11 @@
             animation: fadein 0.5s;
 }
 
-.about {
+#tldr {
+  text-align:center;
+}
 
+.about {
     -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 0.5s; /* Firefox < 16 */
         -ms-animation: fadein 0.5s; /* Internet Explorer */
