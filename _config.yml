@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               "{L/K}"
-tagline:             a place for me to wax poetic
+tagline:             wax poetic
 url:                 http://kravinskylev.github.io
 paginate:            1
 baseurl:             ""
