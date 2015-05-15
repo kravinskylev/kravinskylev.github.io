@@ -1,30 +1,23 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+###Who's Lev?
+That's me! My name is Lev Kravinsky and I am currently a student at the <a href="http://www.turing.io">Turing School of Software & Design</a>.
+<br>
+__________________________________________________________________________________________________________________________________________________________________________________________________________
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+###My Story
+I dropped out of highschool after 10th grade in order to start college early. Pretty soon I had dropped out of college too, though not before paying an insane amount of tuition. I spent some time in San Francisco getting an inside look at Covo, a coworking startup (check <a href="https://hbr.org/2015/05/why-people-thrive-in-coworking-spaces">this</a> out if you're interested), lived in a tent in the jungles of Hawaii, and then somehow found myself here in Denver, at Turing (where I'm the youngest ever student enrolled!).
+<br>
+__________________________________________________________________________________________________________________________________________________________________________________________________________
 
-There are currently two themes built on Poole:
+###TL;DR
+Age: 17 <br>
+Education: Highschool/College Dropout <br>
+Skills: <a href="https://www.ruby-lang.org/en/">Ruby</a>, <a href="http://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a>, <a href="http://git-scm.com/">Git</a> <br>
+__________________________________________________________________________________________________________________________________________________________________________________________________________
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<br>
+<a href="/contact">Contact Info<a/>

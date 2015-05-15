@@ -5,12 +5,17 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               "{L/K}"
+tagline:             a place for me to wax poetic
+url:                 http://kravinskylev.github.io
 paginate:            1
 baseurl:             ""
 
+#custom header stuff
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Contact: '/contact'
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -20,9 +25,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Lev Kravinsky
+  url:               https://twitter.com/LevKravinsky
+  email:             kravinskylev@gmail.com
 
 # Custom vars
 version:             1.0.0

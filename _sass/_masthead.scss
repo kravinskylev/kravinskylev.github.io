@@ -9,18 +9,26 @@
 }
 
 .masthead-title {
+
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  font-size:40px;
 
   a {
+    -moz-transition: all .4s ease-in;
+     -o-transition: all .4s ease-in;
+     -webkit-transition: all .4s ease-in;
+     transition: all .4s ease-in;
+
     color: #505050;
   }
 
   small {
-    font-size: 75%;
+    font-size: 50%;
     font-weight: 400;
     color: #c0c0c0;
     letter-spacing: 0;
   }
+
 }

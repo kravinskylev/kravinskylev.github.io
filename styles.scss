@@ -3,20 +3,6 @@
 # only main files contain this front matter, not partials.
 ---
 
-//
-//                        ___
-//                       /\_ \
-//  _____     ___     ___\//\ \      __
-// /\ '__`\  / __`\  / __`\\ \ \   /'__`\
-// \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
-//  \ \ ,__/\ \____/\ \____//\____\ \____\
-//   \ \ \/  \/___/  \/___/ \/____/\/____/
-//    \ \_\
-//     \/_/
-//
-// Designed, built, and released under MIT license by @mdo. Learn more at
-// https://github.com/poole/poole.
-
 @import "base";
 @import "type";
 @import "syntax";
@@ -26,3 +12,78 @@
 @import "posts";
 @import "pagination";
 @import "message";
+
+.notpost-title {
+  width:50%;
+  margin-left:30%
+}
+
+.fadebutton {
+  text-align:center;
+  width:50%;
+  padding:3%;
+  margin-left:20%;
+  margin-bottom:3%;
+  background:#fff;
+  line-height:45px;
+  transition: opacity 0.5s;
+  -webkit-transition: all ease 0.5s;
+  -moz-transition: all ease 0.5s;
+  -o-transition: all ease 0.5s;
+  -ms-transition: all ease 0.5s ;
+  transition: all ease 0.5s ;
+  border:1px solid #247BA0;
+  border-radius:5px;
+}
+
+.fadebutton:hover {
+  background:#CEEBFB;
+  color:#CEEBFB;
+  -webkit-transition: all ease 0.7s;
+  -moz-transition: all ease 0.7s;
+  -o-transition: all ease 0.7s;
+  -ms-transition: all ease 0.7s ;
+  transition: all ease 0.5s ;
+}
+
+.name {
+  font-size:100px;
+}
+
+.masthead-title {
+  a:hover {
+    -moz-transition: all .3s ease-in;
+     -o-transition: all .3s ease-in;
+     -webkit-transition: all .3s ease-in;
+     transition: all .3s ease-in;
+
+    color:#268bd2;
+    font-size:102%;
+    }
+}
+
+.post {
+
+    -webkit-animation: fadein 1s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 0.5s; /* Firefox < 16 */
+        -ms-animation: fadein 0.5s; /* Internet Explorer */
+         -o-animation: fadein 0.5s; /* Opera < 12.1 */
+            animation: fadein 0.5s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
