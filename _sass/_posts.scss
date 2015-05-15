@@ -19,6 +19,26 @@
   margin-top: 0;
 }
 
+.page-title:hover {
+  -moz-transition: all .3s ease-in;
+   -o-transition: all .3s ease-in;
+   -webkit-transition: all .3s ease-in;
+   -ms-transition: all .3s ease-in;
+   transition: all .3s ease-in;
+
+  color:#268bd2;
+}
+
+.post-title a:hover {
+  -moz-transition: all .3s ease-in;
+   -o-transition: all .3s ease-in;
+   -webkit-transition: all .3s ease-in;
+   -ms-transition: all .3s ease-in;
+   transition: all .3s ease-in;
+
+  color:#268bd2;
+}
+
 // Meta data line below post title
 .post-date {
   display: block;
