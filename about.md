@@ -21,6 +21,7 @@ ________________________________________________________________________________
 Age: 17 <br>
 Education: Highschool/College Dropout <br>
 Skills: <a href="https://www.ruby-lang.org/en/">Ruby</a>, <a href="http://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a>, <a href="http://git-scm.com/">Git</a> <br>
+Currently Learning: <a href="http://rubyonrails.org/">Rails</a>, <a href="http://en.wikipedia.org/wiki/JavaScript">JavaScript</a>, <a href="http://www.sinatrarb.com/">Sinatra</a>
 </div>
 __________________________________________________________________________________________________________________________________________________________________________________________________________
 
