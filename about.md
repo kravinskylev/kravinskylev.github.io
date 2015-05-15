@@ -18,7 +18,7 @@ ________________________________________________________________________________
 <span class="tldr-header"><h2>TL;DR</h2></span>
 <div class="two-columns">
 <div class="round">
-<img src="/public/Me!.jpg"
+<img src="/public/Me!.png"
 </div>
 </div>
 
