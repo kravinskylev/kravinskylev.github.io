@@ -4,6 +4,7 @@ title: Diffipedia
 published: true
 ---
 
+
 <h3>the culture equation</h3>
 
 My friend <a href="https://github.com/jgu2160">Jeffrey Gu</a> had chosen to
@@ -37,7 +38,7 @@ help the project grow.
  rudimentary an algorithm is impossible, but the algorithm certainly provides
  interesting alleys to poke around in. For example, after seeing that Germany
  seems to have less about the actual pleasure of eating food, I looked at the article
- myself. And guess what? The German paragraph about the hedonistic value of food is a single sentence. Meanwhile, the english article contains numerous references to pleasure,
+ myself. And guess what? The German paragraph about the hedonistic value of food is a single sentence. Meanwhile, the English article contains numerous references to pleasure,
  taste, and joy across multiple paragraphs.
 
  ________________________________________________________________________________
@@ -59,4 +60,4 @@ _______________________________________________________________________________
  An idea I had to go even deeper into this was to go to <a href="http://en.wikipedia.org/wiki/Wikipedia:List_of_controversial_issues">Wikipedia's list of controversial events</a>, run each controversial article through Diffipedia,
  and find the articles with the greatest disparity among their scores. One of the biggest challenges about doing this would be determining which two languages to compare the articles with. The two languages with the highest number of contributors seems like an obvious answer but I have the sneaking suspicion that there are a number of edge cases where this wouldn't work. I'll have to think of a more clever way to determine which two cultures to compare for each article.
 
- The idea behind this project can go well beyond the scope of Wikipedia. It could be used to quickly find out the ways that different countries were reporting the same news events, or it could look for differences in the emotions that politicans have when speaking about the same issue. The use cases are practically endless, though unfortunately, my time is not. However, if you're interested in any of this stuff, you can check out the not-quite-production-ready Diffipedia <a href="http://diffepedia.herokuapp.com/">here</a> (make sure to use HTTPS wikipedia addresses), MoodRing <a href="https://github.com/dglunz/moodring">here</a>, Sentimentalizer <a href="https://github.com/malavbhavsar/sentimentalizer">here</a>, and TFIDF <a href="https://github.com/mathieuripert/ruby-tf-idf">here</a>. 
+ The idea behind this project can go well beyond the scope of Wikipedia. It could be used to quickly find out the ways that different countries were reporting the same news events, or it could look for differences in the emotions that politicans have when speaking about the same issue. The use cases are practically endless, though unfortunately, my time is not. However, if you're interested in any of this stuff, you can check out the not-quite-production-ready Diffipedia <a href="http://diffepedia.herokuapp.com/">here</a> (make sure to use HTTPS wikipedia addresses), MoodRing <a href="https://github.com/dglunz/moodring">here</a>, Sentimentalizer <a href="https://github.com/malavbhavsar/sentimentalizer">here</a>, and TFIDF <a href="https://github.com/mathieuripert/ruby-tf-idf">here</a>.
