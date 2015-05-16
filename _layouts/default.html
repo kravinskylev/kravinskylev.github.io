@@ -6,15 +6,22 @@
   <body>
 
     <div class="container content">
+        <h1 class="blog-title">
+          &nbsp<a style="text-decoration:none" href=http://lev.io>{l/k}</a>
+        </h1>
+
+          <br>
 
         <h3 class="masthead-title">
-        <a href="/" title="Home">{{ site.title }}</a>
+        <a href="/" title="Home"></a>
 
         {% for page in site.pages_list %}
           &nbsp;&nbsp;&nbsp;
           <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
         {% endfor %}
         </h3>
+        <div class="stupid-border"></div>
+
 
       </header>
 

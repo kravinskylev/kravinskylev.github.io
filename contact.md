@@ -1,7 +1,13 @@
 ---
 layout: page
-title: <div class="notpost-title">Hello, Lev<div>
+title:
 ---
+<div class="contact-header">
+<h1>
+&nbsp &nbsp &nbsp &nbsp Hello, Lev
+</h1>
+</div>
+
 <div class="contact">
   <div class="fadebutton">
     <a href="mailto:kravinskylev@gmail.com">Email</a>

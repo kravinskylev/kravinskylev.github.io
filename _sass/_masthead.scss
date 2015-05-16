@@ -10,12 +10,14 @@
 
 .masthead-title {
 
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
   color: #505050;
   font-size:8vmin;
   padding-bottom: 5px;
-  border-bottom: 1px solid #268bd2;
+  border-top: 1px solid #268bd2;
+  text-transform: lowercase;
 
   a {
     -moz-transition: all .4s ease-in;
@@ -31,5 +33,6 @@
     font-weight: 400;
     color: #c0c0c0;
     letter-spacing: 0;
+    vertical-align: text-top;
   }
 }
