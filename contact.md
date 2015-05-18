@@ -4,7 +4,7 @@ title:
 ---
 <div class="contact-header">
 <h1>
-&nbsp &nbsp &nbsp &nbsp Hello, Lev
+&nbsp &nbsp Hello, Lev
 </h1>
 </div>
 
