@@ -2,6 +2,6 @@
 layout: page
 title:
 ---
-<span class="leviosa">
+<div class="leviosa">
 <img src="/public/sa.gif">
-</span>
+</div>
