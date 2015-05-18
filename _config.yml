@@ -15,7 +15,7 @@ baseurl:             ""
 pages_list:
   About: '/about'
   Archive: '/archive'
-  Contact: '/contact'
+  Connect: '/connect'
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
