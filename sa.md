@@ -3,4 +3,4 @@ layout: page
 title:
 ---
 
-<a href="/public/sa.gif">LEVIOSA</a>
+<img src="/public/sa.gif">
