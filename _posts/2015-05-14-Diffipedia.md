@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Diffipedia
+title: Diffepedia
 published: true
 ---
+
 
 
 <h3>the culture equation</h3>
