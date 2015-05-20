@@ -1,15 +1,16 @@
 ---
 layout: post
-title: Diffipedia
+title: Diffepedia
 published: true
 ---
+
 
 
 <h3>the culture equation</h3>
 
 My friend <a href="https://github.com/jgu2160">Jeffrey Gu</a> had chosen to
 create a web application that compared two different languages take on a
-particular wikipedia article. He had it set up to take in an article, give the
+particular Wikipedia article. He had it set up to take in an article, give the
 user a choice of two languages to compare across, and then output two columns,
 one with each language's article in an array split by word. He had come to a
 roadblock regarding the actual cultural comparison - how do you calculate the
